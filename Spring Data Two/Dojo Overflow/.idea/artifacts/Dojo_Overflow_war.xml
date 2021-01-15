@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Dojo Overflow:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Dojo Overflow</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dojooverflow-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Dojo Overflow:war exploded" />
+    </root>
+  </artifact>
+</component>
