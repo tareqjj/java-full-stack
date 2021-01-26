@@ -1,0 +1,7 @@
+header{display: inline-grid; margin: 10px;}
+header div div{border: 1px solid black; min-width: 50px}
+main{display: inline-flex; margin: 0 auto}
+main div{border: 2px solid black; text-align: center; min-width: 200px; margin: 10px}
+main div input{display: flex; margin: 0 auto}
+footer{display: block; margin: 10px}
+footer div{border: 2px solid black}
